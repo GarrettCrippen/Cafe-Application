@@ -1,0 +1,1 @@
+pg_ctl -D "C:\Program Files (x86)\PostgreSQL\9.3\data" -U postgres -P 123  start
